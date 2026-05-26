@@ -65,6 +65,5 @@ Task management app built using Java.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: add-link
-- Portfolio: add-link
-- Email: add-email
+- LinkedIn: https://www.linkedin.com/in/nithin-sakthivel/
+- Email: nithinsakthi12@gmail.com
