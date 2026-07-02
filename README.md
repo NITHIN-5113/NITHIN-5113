@@ -20,7 +20,6 @@ AI & Full Stack Developer | Java | Web Development | Problem Solver
 ### Languages
 - Java
 - Python
-- JavaScript
 
 ### Frontend
 - HTML
@@ -50,8 +49,8 @@ Real-time disaster intelligence and prediction platform using AI.
 ### 📚 Smart Learning Recommendation System
 AI-powered personalized learning resource recommender.
 
-### ✅ To-Do List Application
-Task management app built using Java.
+### 💡IdeaForge
+AI-Idea Validation Platform.
 
 ---
 
