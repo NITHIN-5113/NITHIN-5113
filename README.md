@@ -49,9 +49,6 @@ Real-time disaster intelligence and prediction platform using AI.
 ### 📚 Smart Learning Recommendation System
 AI-powered personalized learning resource recommender.
 
-### 💡IdeaForge
-AI-Idea Validation Platform.
-
 ---
 
 ## 📈 GitHub Stats
